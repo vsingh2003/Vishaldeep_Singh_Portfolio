@@ -80,10 +80,13 @@ Collected music data from Spotify and stored it in a NoSQL database for analysis
 **Project Overview:**  
 Build a two-player Tic-Tac-Toe game in Python using conditionals, loops, and functions.
 
-**My Role:**
-   Built a complete game loop that handles player turns, win detection, and draw scenarios.
-  Utilized lists, Boolean expressions, and well-structured functions to ensure smooth gameplay.
-  Strengthened foundational coding skills by applying conditionals, loops, and function design.
-  Implemented logic to identify winning combinations across rows, columns, and diagonals.
+My Role:
 
+Developed a complete game loop handling player turns, win detection, and draw scenarios
+
+Used lists, Boolean expressions, and modular functions for smooth gameplay
+
+Applied conditionals, loops, and function design to reinforce core programming skills
+
+Implemented logic to check winning combinations across rows, columns, and diagonal
 ---
