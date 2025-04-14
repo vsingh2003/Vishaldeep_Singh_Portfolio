@@ -74,15 +74,19 @@ Collected music data from Spotify and stored it in a NoSQL database for analysis
 
 ---
 
-### 5️⃣ Python Snake Game  
-**Type:** Personal Project  
+### 5️⃣ Python Tik Tak Toe Game  
+**Type:** CMPT 1011  
 
 **Project Overview:**  
-Recreated the classic Snake game to practice Python basics and logic building.
+Build a two-player Tic-Tac-Toe game in Python using conditionals, loops, and functions.
 
 **My Role:**
-- Designed the gameplay and rules  
-- Used Python to handle movement, scoring, and collisions  
-- Improved my understanding of programming flow
+Built a complete game loop that handles player turns, win detection, and draw scenarios.
+
+Utilized lists, Boolean expressions, and well-structured functions to ensure smooth gameplay.
+
+Strengthened foundational coding skills by applying conditionals, loops, and function design.
+
+Implemented logic to identify winning combinations across rows, columns, and diagonals.
 
 ---
