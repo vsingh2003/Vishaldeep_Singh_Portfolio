@@ -83,10 +83,7 @@ Build a two-player Tic-Tac-Toe game in Python using conditionals, loops, and fun
 My Role:
 
 Developed a complete game loop handling player turns, win detection, and draw scenarios
-
 Used lists, Boolean expressions, and modular functions for smooth gameplay
-
 Applied conditionals, loops, and function design to reinforce core programming skills
-
 Implemented logic to check winning combinations across rows, columns, and diagonal
 ---
