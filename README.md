@@ -1,10 +1,9 @@
-# Vishaldeep_Singh_Portfolio
 Vishaldeep Singh – Machine Learning & Data Projects Portfolio
-📍 Edmonton, Alberta, Canada
-📧 vishalhundal321@gmail.com
-📞 +1 (780) 123-4567
-🔗 LinkedIn
-🐙 GitHub
+Edmonton, Alberta, Canada
+vishalhundal321@gmail.com
+🔗 [https://www.linkedin.com/in/vishaldeep-singh-a10b5a2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/vishaldeep-singh-a10b5a2a8/)
+
+
 
 👨‍💼 About Me
 I'm a Machine Learning Analyst student at NorQuest College with a passion for working with data and creating smart, practical solutions. I enjoy exploring real-world problems, turning raw information into insights, and building tools that make a difference.
