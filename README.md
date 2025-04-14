@@ -1,7 +1,7 @@
 # Vishaldeep Singh – Machine Learning & Data Projects Portfolio
 
 📍 *Edmonton, Alberta, Canada*  
-📧 *vishalhundal321@gmail.com*  
+📧 *vsingh38@norquest.ca*  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/vishaldeep-singh-a10b5a2a8)
 
 ---
